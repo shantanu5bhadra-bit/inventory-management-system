@@ -86,11 +86,6 @@ This runs 12 unit tests covering product CRUD, validation failures, stock
 in/out, low-stock detection, and sales processing (including insufficient
 stock handling).
 
-## Screenshots
-
-*(Add screenshots of the running menu, a sale receipt, and a report here
-before final submission.)*
-
 ## Author
 
 Submitted for CSE1021 – Introduction to Problem Solving, VITyarthi
